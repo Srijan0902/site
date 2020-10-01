@@ -12,6 +12,7 @@ The website is built on Django and should be simple to set up and get started wi
 If you happen to run into issues with setup, please don't hesitate to open an issue!
 
 If you're looking to contribute or play around with the code, take a look at [the wiki][2] or the [`docs` directory](docs). If you're looking for things to do, check out [our issues][3].
+##I hope you can help by commenting to improve our website
 
 [1]: https://pythondiscord.com
 [2]: https://pythondiscord.com/pages/contributing/site/
